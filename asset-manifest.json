@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Gestion-de-Cabinet-Medical/static/css/main.39185e8f.css",
-    "main.js": "/Gestion-de-Cabinet-Medical/static/js/main.c9c1c44e.js",
+    "main.js": "/Gestion-de-Cabinet-Medical/static/js/main.3439d85a.js",
     "static/media/img.jpg": "/Gestion-de-Cabinet-Medical/static/media/img.e5dceb535bf5de3a2bd0.jpg",
     "static/media/background.png": "/Gestion-de-Cabinet-Medical/static/media/background.062514126c540fc016c8.png",
     "static/media/bootstrap-icons.woff?": "/Gestion-de-Cabinet-Medical/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/Gestion-de-Cabinet-Medical/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/Gestion-de-Cabinet-Medical/index.html",
     "main.39185e8f.css.map": "/Gestion-de-Cabinet-Medical/static/css/main.39185e8f.css.map",
-    "main.c9c1c44e.js.map": "/Gestion-de-Cabinet-Medical/static/js/main.c9c1c44e.js.map"
+    "main.3439d85a.js.map": "/Gestion-de-Cabinet-Medical/static/js/main.3439d85a.js.map"
   },
   "entrypoints": [
     "static/css/main.39185e8f.css",
-    "static/js/main.c9c1c44e.js"
+    "static/js/main.3439d85a.js"
   ]
 }
