@@ -1,0 +1,126 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "nom": "Ali",
+      "prenom": "Ahmed",
+      "dateNaissance": "1983-05-15",
+      "telephone": "0605948573",
+      "adresse": "Fes, Maroc",
+      "email": "ahmed.ali@gmail.com",
+      "groupeSanguin": "O-",
+      "allergies": "asthme",
+      "age": 42
+    },
+    {
+      "id": "2",
+      "nom": "Berrada",
+      "prenom": "Amal",
+      "dateNaissance": "1978-10-20",
+      "telephone": "0798875432",
+      "adresse": "Tangier, Maroc",
+      "email": "Amal.berrada@gmail.com",
+      "groupeSanguin": "A+",
+      "allergies": ""
+    },
+    {
+      "id": "3",
+      "nom": "Dahbi",
+      "prenom": "Amine",
+      "dateNaissance": "2004-02-02",
+      "telephone": "0606409382",
+      "adresse": "Agadir, Maroc",
+      "email": "Dahbi.amine@gmail.com",
+      "groupeSanguin": "A+",
+      "allergies": "asthme",
+      "age": 21
+    },
+    {
+      "id": "4",
+      "nom": "Elfarissi",
+      "prenom": "Youssef",
+      "dateNaissance": "1980-12-24",
+      "telephone": "0606409382",
+      "adresse": "Casablanca, Maroc",
+      "email": "Youssef.elwafi@gmail.com",
+      "groupeSanguin": "O-",
+      "allergies": "Eczéma"
+    },
+    {
+      "id": "5",
+      "nom": "Mohamed",
+      "prenom": "Yassir",
+      "dateNaissance": "1978-01-09",
+      "telephone": "0653425163",
+      "adresse": "Oujda, Maroc",
+      "email": "Mohamed.yassir@gmail.com",
+      "groupeSanguin": "O-",
+      "allergies": "noix"
+    },
+    {
+      "id": "6",
+      "nom": "Hakam",
+      "prenom": "Yahya",
+      "dateNaissance": "1990-03-18",
+      "telephone": "0611111111",
+      "adresse": "Rabat, Maroc",
+      "email": "yahya.hakam@gmail.com",
+      "groupeSanguin": "B+",
+      "allergies": "poisson"
+    },
+    {
+      "id": "7",
+      "nom": "Tazi",
+      "prenom": "Leila",
+      "dateNaissance": "1995-02-17",
+      "telephone": "0698758493",
+      "adresse": "Casablanca, Maroc",
+      "email": "Leila.tazi@gmail.com",
+      "groupeSanguin": "AB+"
+    },
+    {
+      "id": "9",
+      "nom": "Elfadili",
+      "prenom": "Hanae",
+      "dateNaissance": "2003-06-19",
+      "telephone": "0690102837",
+      "adresse": "Marrakech, Maroc",
+      "email": "hanae.elfadili@gmail.com",
+      "groupeSanguin": "O+",
+      "allergies": "soja"
+    },
+    {
+      "id": "10",
+      "nom": "kassmi",
+      "prenom": "Zineb",
+      "dateNaissance": "2006-01-24",
+      "telephone": "0611111111",
+      "adresse": "Casablanca, Maroc",
+      "email": "kassmi.Zineb@gmail.com",
+      "groupeSanguin": "B-",
+      "allergies": ""
+    }
+  ],
+  "rendezVous": [
+    {
+      "id": "d1c4",
+      "patient": 7,
+      "date": "2026-12-22",
+      "heure": "20:00",
+      "motif": "Consultation",
+      "statut": "En attente"
+    }
+  ],
+  "consultations": [
+    {
+      "patient": "Amal Berrada",
+      "date": "2026-02-01",
+      "motif": "Consultation",
+      "diagnostic": "qww",
+      "ordonnance": "er",
+      "tarif": "990",
+      "modePaiement": "Carte Bancaire",
+      "id": "6676"
+    }
+  ]
+}

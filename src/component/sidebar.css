@@ -1,0 +1,25 @@
+.sidebar {
+  height: 200vh;
+  color: #fff; 
+}
+
+.sidebar .nav-link {
+  color: #ffffff !important;
+  margin-top: 5px;
+  padding: 10px 15px;
+  font-weight: 500;
+  border-radius: 6px;
+}
+
+.sidebar .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar .nav-link.active {
+  background-color: whitesmoke;
+  color: #000000 !important;
+}
+
+.sidebar i {
+  font-size: 1.2rem;
+}
